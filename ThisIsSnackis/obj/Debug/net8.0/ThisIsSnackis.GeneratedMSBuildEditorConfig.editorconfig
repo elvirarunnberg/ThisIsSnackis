@@ -1,0 +1,207 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ThisIsSnackis
+build_property.RootNamespace = ThisIsSnackis
+build_property.ProjectDir = C:\Users\Elvir\OneDrive\Skrivbord\Plugg\E.Webbapplikationer\ThisIsSnackis\ThisIsSnackis\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Elvir\OneDrive\Skrivbord\Plugg\E.Webbapplikationer\ThisIsSnackis\ThisIsSnackis
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Elvir/OneDrive/Skrivbord/Plugg/E.Webbapplikationer/ThisIsSnackis/ThisIsSnackis/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elvir/OneDrive/Skrivbord/Plugg/E.Webbapplikationer/ThisIsSnackis/ThisIsSnackis/Pages/Admin/Categorys/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQ2F0ZWdvcnlzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elvir/OneDrive/Skrivbord/Plugg/E.Webbapplikationer/ThisIsSnackis/ThisIsSnackis/Pages/Admin/Categorys/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQ2F0ZWdvcnlzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elvir/OneDrive/Skrivbord/Plugg/E.Webbapplikationer/ThisIsSnackis/ThisIsSnackis/Pages/Admin/Categorys/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQ2F0ZWdvcnlzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elvir/OneDrive/Skrivbord/Plugg/E.Webbapplikationer/ThisIsSnackis/ThisIsSnackis/Pages/Admin/Categorys/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQ2F0ZWdvcnlzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elvir/OneDrive/Skrivbord/Plugg/E.Webbapplikationer/ThisIsSnackis/ThisIsSnackis/Pages/Admin/Categorys/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQ2F0ZWdvcnlzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elvir/OneDrive/Skrivbord/Plugg/E.Webbapplikationer/ThisIsSnackis/ThisIsSnackis/Pages/Admin/Comments/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQ29tbWVudHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elvir/OneDrive/Skrivbord/Plugg/E.Webbapplikationer/ThisIsSnackis/ThisIsSnackis/Pages/Admin/Comments/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQ29tbWVudHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elvir/OneDrive/Skrivbord/Plugg/E.Webbapplikationer/ThisIsSnackis/ThisIsSnackis/Pages/Admin/Comments/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQ29tbWVudHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elvir/OneDrive/Skrivbord/Plugg/E.Webbapplikationer/ThisIsSnackis/ThisIsSnackis/Pages/Admin/Comments/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQ29tbWVudHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elvir/OneDrive/Skrivbord/Plugg/E.Webbapplikationer/ThisIsSnackis/ThisIsSnackis/Pages/Admin/Comments/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQ29tbWVudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elvir/OneDrive/Skrivbord/Plugg/E.Webbapplikationer/ThisIsSnackis/ThisIsSnackis/Pages/Admin/Headers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cSGVhZGVyc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elvir/OneDrive/Skrivbord/Plugg/E.Webbapplikationer/ThisIsSnackis/ThisIsSnackis/Pages/Admin/Headers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cSGVhZGVyc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elvir/OneDrive/Skrivbord/Plugg/E.Webbapplikationer/ThisIsSnackis/ThisIsSnackis/Pages/Admin/Headers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cSGVhZGVyc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elvir/OneDrive/Skrivbord/Plugg/E.Webbapplikationer/ThisIsSnackis/ThisIsSnackis/Pages/Admin/Headers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cSGVhZGVyc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elvir/OneDrive/Skrivbord/Plugg/E.Webbapplikationer/ThisIsSnackis/ThisIsSnackis/Pages/Admin/Headers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cSGVhZGVyc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elvir/OneDrive/Skrivbord/Plugg/E.Webbapplikationer/ThisIsSnackis/ThisIsSnackis/Pages/Admin/Messages/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cTWVzc2FnZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elvir/OneDrive/Skrivbord/Plugg/E.Webbapplikationer/ThisIsSnackis/ThisIsSnackis/Pages/Admin/Messages/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cTWVzc2FnZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elvir/OneDrive/Skrivbord/Plugg/E.Webbapplikationer/ThisIsSnackis/ThisIsSnackis/Pages/Admin/Messages/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cTWVzc2FnZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elvir/OneDrive/Skrivbord/Plugg/E.Webbapplikationer/ThisIsSnackis/ThisIsSnackis/Pages/Admin/Messages/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cTWVzc2FnZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elvir/OneDrive/Skrivbord/Plugg/E.Webbapplikationer/ThisIsSnackis/ThisIsSnackis/Pages/Admin/Messages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cTWVzc2FnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elvir/OneDrive/Skrivbord/Plugg/E.Webbapplikationer/ThisIsSnackis/ThisIsSnackis/Pages/Admin/Posts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cUG9zdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elvir/OneDrive/Skrivbord/Plugg/E.Webbapplikationer/ThisIsSnackis/ThisIsSnackis/Pages/Admin/Posts/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cUG9zdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elvir/OneDrive/Skrivbord/Plugg/E.Webbapplikationer/ThisIsSnackis/ThisIsSnackis/Pages/Admin/Posts/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cUG9zdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elvir/OneDrive/Skrivbord/Plugg/E.Webbapplikationer/ThisIsSnackis/ThisIsSnackis/Pages/Admin/Posts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cUG9zdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elvir/OneDrive/Skrivbord/Plugg/E.Webbapplikationer/ThisIsSnackis/ThisIsSnackis/Pages/Admin/Posts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cUG9zdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elvir/OneDrive/Skrivbord/Plugg/E.Webbapplikationer/ThisIsSnackis/ThisIsSnackis/Pages/Admin/Reports/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cUmVwb3J0c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elvir/OneDrive/Skrivbord/Plugg/E.Webbapplikationer/ThisIsSnackis/ThisIsSnackis/Pages/Admin/Reports/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cUmVwb3J0c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elvir/OneDrive/Skrivbord/Plugg/E.Webbapplikationer/ThisIsSnackis/ThisIsSnackis/Pages/Admin/Reports/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cUmVwb3J0c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elvir/OneDrive/Skrivbord/Plugg/E.Webbapplikationer/ThisIsSnackis/ThisIsSnackis/Pages/Admin/Reports/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cUmVwb3J0c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elvir/OneDrive/Skrivbord/Plugg/E.Webbapplikationer/ThisIsSnackis/ThisIsSnackis/Pages/Admin/Reports/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cUmVwb3J0c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elvir/OneDrive/Skrivbord/Plugg/E.Webbapplikationer/ThisIsSnackis/ThisIsSnackis/Pages/Admin/UserPictures/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cVXNlclBpY3R1cmVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elvir/OneDrive/Skrivbord/Plugg/E.Webbapplikationer/ThisIsSnackis/ThisIsSnackis/Pages/Admin/UserPictures/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cVXNlclBpY3R1cmVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elvir/OneDrive/Skrivbord/Plugg/E.Webbapplikationer/ThisIsSnackis/ThisIsSnackis/Pages/Admin/UserPictures/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cVXNlclBpY3R1cmVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elvir/OneDrive/Skrivbord/Plugg/E.Webbapplikationer/ThisIsSnackis/ThisIsSnackis/Pages/Admin/UserPictures/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cVXNlclBpY3R1cmVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elvir/OneDrive/Skrivbord/Plugg/E.Webbapplikationer/ThisIsSnackis/ThisIsSnackis/Pages/Admin/UserPictures/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cVXNlclBpY3R1cmVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elvir/OneDrive/Skrivbord/Plugg/E.Webbapplikationer/ThisIsSnackis/ThisIsSnackis/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elvir/OneDrive/Skrivbord/Plugg/E.Webbapplikationer/ThisIsSnackis/ThisIsSnackis/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elvir/OneDrive/Skrivbord/Plugg/E.Webbapplikationer/ThisIsSnackis/ThisIsSnackis/Pages/MittApi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWl0dEFwaS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elvir/OneDrive/Skrivbord/Plugg/E.Webbapplikationer/ThisIsSnackis/ThisIsSnackis/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elvir/OneDrive/Skrivbord/Plugg/E.Webbapplikationer/ThisIsSnackis/ThisIsSnackis/Pages/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elvir/OneDrive/Skrivbord/Plugg/E.Webbapplikationer/ThisIsSnackis/ThisIsSnackis/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elvir/OneDrive/Skrivbord/Plugg/E.Webbapplikationer/ThisIsSnackis/ThisIsSnackis/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elvir/OneDrive/Skrivbord/Plugg/E.Webbapplikationer/ThisIsSnackis/ThisIsSnackis/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elvir/OneDrive/Skrivbord/Plugg/E.Webbapplikationer/ThisIsSnackis/ThisIsSnackis/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-chg755cn7n

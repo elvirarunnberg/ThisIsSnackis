@@ -1,0 +1,52 @@
+﻿@page
+@model ThisIsSnackis.Pages.Admin.Posts.DeleteModel
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>Ta bort</h1>
+
+<h3>Är du säker att du vill ta bort inlägget?</h3>
+<div>
+ 
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Post.Title)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Post.Title)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Post.ThePost)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Post.ThePost)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Post.AuthorId)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Post.AuthorId)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Post.Date)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Post.Date)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Post.TheCategoryId)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Post.TheCategoryId)
+        </dd>
+    </dl>
+    
+    <form method="post">
+        <input type="hidden" asp-for="Post.Id" />
+        <input type="submit" value="Ta bort" class="btn btn-danger" /> <br /><br />
+        <a href="javascript:history.go(-1);" class="custom-link">Tillbaka</a>
+    </form>
+</div>

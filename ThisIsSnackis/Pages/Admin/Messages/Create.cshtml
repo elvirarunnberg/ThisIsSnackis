@@ -1,0 +1,53 @@
+﻿@page
+@model ThisIsSnackis.Pages.Admin.Messages.CreateModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Nytt meddelande</h1>
+
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Message.Title" class="control-label">Rubrik:</label>
+                <input asp-for="Message.Title" class="form-control" />
+                <span asp-validation-for="Message.Title" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Message.Text" class="control-label">Meddelande:</label>
+                <textarea asp-for="Message.Text" class="form-control" rows="6" cols="50"></textarea>
+                <span asp-validation-for="Message.Text" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Message.SenderId" class="control-label">Avsändare:</label>
+                <input asp-for="Message.SenderId" class="form-control" />
+                <span asp-validation-for="Message.SenderId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Message.ReciverId" class="control-label">Mottagarens email:</label>
+                <input asp-for="Message.ReciverId" class="form-control" />
+                <span asp-validation-for="Message.ReciverId" class="text-danger"></span>
+            </div><br />
+     
+
+            <div class="form-group">
+                <input type="submit" value="Skicka" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div><br />
+
+<div>
+    <a href="javascript:history.go(-1);" class="custom-link">Tillbaka</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

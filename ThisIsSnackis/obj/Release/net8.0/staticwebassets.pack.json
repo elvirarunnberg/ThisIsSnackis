@@ -1,0 +1,305 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Elvir\\OneDrive\\Skrivbord\\Plugg\\E.Webbapplikationer\\ThisIsSnackis\\ThisIsSnackis\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\ThisIsSnackis.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ThisIsSnackis.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Elvir\\OneDrive\\Skrivbord\\Plugg\\E.Webbapplikationer\\ThisIsSnackis\\ThisIsSnackis\\wwwroot\\Images\\0f1ca68b-3cdf-4e1b-8b06-8f1b4db51b6b_irene.jpg",
+      "PackagePath": "staticwebassets\\Images\\0f1ca68b-3cdf-4e1b-8b06-8f1b4db51b6b_irene.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elvir\\OneDrive\\Skrivbord\\Plugg\\E.Webbapplikationer\\ThisIsSnackis\\ThisIsSnackis\\wwwroot\\Images\\37fe85af-dcc6-472d-92f2-0c11167061e0_20191206_231819.jpg",
+      "PackagePath": "staticwebassets\\Images\\37fe85af-dcc6-472d-92f2-0c11167061e0_20191206_231819.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elvir\\OneDrive\\Skrivbord\\Plugg\\E.Webbapplikationer\\ThisIsSnackis\\ThisIsSnackis\\wwwroot\\Images\\62d494ed-e3b5-491a-a39f-141f0e4da65e_20191113_115203.jpg",
+      "PackagePath": "staticwebassets\\Images\\62d494ed-e3b5-491a-a39f-141f0e4da65e_20191113_115203.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elvir\\OneDrive\\Skrivbord\\Plugg\\E.Webbapplikationer\\ThisIsSnackis\\ThisIsSnackis\\wwwroot\\Images\\6667b740-a021-4067-a335-277907a06ab8_katt.jpg",
+      "PackagePath": "staticwebassets\\Images\\6667b740-a021-4067-a335-277907a06ab8_katt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elvir\\OneDrive\\Skrivbord\\Plugg\\E.Webbapplikationer\\ThisIsSnackis\\ThisIsSnackis\\wwwroot\\Images\\c0a0a942-2628-4d28-ad10-f4ebd5f27828_20191115_103421.jpg",
+      "PackagePath": "staticwebassets\\Images\\c0a0a942-2628-4d28-ad10-f4ebd5f27828_20191115_103421.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elvir\\OneDrive\\Skrivbord\\Plugg\\E.Webbapplikationer\\ThisIsSnackis\\ThisIsSnackis\\wwwroot\\Images\\daacd2ed-955a-4639-92ca-de1d44d5576b_20191113_115203.jpg",
+      "PackagePath": "staticwebassets\\Images\\daacd2ed-955a-4639-92ca-de1d44d5576b_20191113_115203.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elvir\\OneDrive\\Skrivbord\\Plugg\\E.Webbapplikationer\\ThisIsSnackis\\ThisIsSnackis\\wwwroot\\Images\\e2d39273-d7b4-4e2c-87ad-0fadab4e9242_jakob.jpg",
+      "PackagePath": "staticwebassets\\Images\\e2d39273-d7b4-4e2c-87ad-0fadab4e9242_jakob.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elvir\\OneDrive\\Skrivbord\\Plugg\\E.Webbapplikationer\\ThisIsSnackis\\ThisIsSnackis\\wwwroot\\Images\\eb08398c-d7d8-4512-8a31-f39bbd20b529_hanna.jpg",
+      "PackagePath": "staticwebassets\\Images\\eb08398c-d7d8-4512-8a31-f39bbd20b529_hanna.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elvir\\OneDrive\\Skrivbord\\Plugg\\E.Webbapplikationer\\ThisIsSnackis\\ThisIsSnackis\\wwwroot\\Images\\edd6c97b-64b6-479a-917b-4b97f97ab19b_tommy.jpg",
+      "PackagePath": "staticwebassets\\Images\\edd6c97b-64b6-479a-917b-4b97f97ab19b_tommy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elvir\\OneDrive\\Skrivbord\\Plugg\\E.Webbapplikationer\\ThisIsSnackis\\ThisIsSnackis\\wwwroot\\css\\horse2.jpg",
+      "PackagePath": "staticwebassets\\css\\horse2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elvir\\OneDrive\\Skrivbord\\Plugg\\E.Webbapplikationer\\ThisIsSnackis\\ThisIsSnackis\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Elvir\\OneDrive\\Skrivbord\\Plugg\\E.Webbapplikationer\\ThisIsSnackis\\ThisIsSnackis\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Elvir\\OneDrive\\Skrivbord\\Plugg\\E.Webbapplikationer\\ThisIsSnackis\\ThisIsSnackis\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Elvir\\OneDrive\\Skrivbord\\Plugg\\E.Webbapplikationer\\ThisIsSnackis\\ThisIsSnackis\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Elvir\\OneDrive\\Skrivbord\\Plugg\\E.Webbapplikationer\\ThisIsSnackis\\ThisIsSnackis\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Elvir\\OneDrive\\Skrivbord\\Plugg\\E.Webbapplikationer\\ThisIsSnackis\\ThisIsSnackis\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Elvir\\OneDrive\\Skrivbord\\Plugg\\E.Webbapplikationer\\ThisIsSnackis\\ThisIsSnackis\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Elvir\\OneDrive\\Skrivbord\\Plugg\\E.Webbapplikationer\\ThisIsSnackis\\ThisIsSnackis\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Elvir\\OneDrive\\Skrivbord\\Plugg\\E.Webbapplikationer\\ThisIsSnackis\\ThisIsSnackis\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Elvir\\OneDrive\\Skrivbord\\Plugg\\E.Webbapplikationer\\ThisIsSnackis\\ThisIsSnackis\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Elvir\\OneDrive\\Skrivbord\\Plugg\\E.Webbapplikationer\\ThisIsSnackis\\ThisIsSnackis\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Elvir\\OneDrive\\Skrivbord\\Plugg\\E.Webbapplikationer\\ThisIsSnackis\\ThisIsSnackis\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Elvir\\OneDrive\\Skrivbord\\Plugg\\E.Webbapplikationer\\ThisIsSnackis\\ThisIsSnackis\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Elvir\\OneDrive\\Skrivbord\\Plugg\\E.Webbapplikationer\\ThisIsSnackis\\ThisIsSnackis\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Elvir\\OneDrive\\Skrivbord\\Plugg\\E.Webbapplikationer\\ThisIsSnackis\\ThisIsSnackis\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Elvir\\OneDrive\\Skrivbord\\Plugg\\E.Webbapplikationer\\ThisIsSnackis\\ThisIsSnackis\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Elvir\\OneDrive\\Skrivbord\\Plugg\\E.Webbapplikationer\\ThisIsSnackis\\ThisIsSnackis\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Elvir\\OneDrive\\Skrivbord\\Plugg\\E.Webbapplikationer\\ThisIsSnackis\\ThisIsSnackis\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Elvir\\OneDrive\\Skrivbord\\Plugg\\E.Webbapplikationer\\ThisIsSnackis\\ThisIsSnackis\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Elvir\\OneDrive\\Skrivbord\\Plugg\\E.Webbapplikationer\\ThisIsSnackis\\ThisIsSnackis\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Elvir\\OneDrive\\Skrivbord\\Plugg\\E.Webbapplikationer\\ThisIsSnackis\\ThisIsSnackis\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Elvir\\OneDrive\\Skrivbord\\Plugg\\E.Webbapplikationer\\ThisIsSnackis\\ThisIsSnackis\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Elvir\\OneDrive\\Skrivbord\\Plugg\\E.Webbapplikationer\\ThisIsSnackis\\ThisIsSnackis\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Elvir\\OneDrive\\Skrivbord\\Plugg\\E.Webbapplikationer\\ThisIsSnackis\\ThisIsSnackis\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Elvir\\OneDrive\\Skrivbord\\Plugg\\E.Webbapplikationer\\ThisIsSnackis\\ThisIsSnackis\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Elvir\\OneDrive\\Skrivbord\\Plugg\\E.Webbapplikationer\\ThisIsSnackis\\ThisIsSnackis\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Elvir\\OneDrive\\Skrivbord\\Plugg\\E.Webbapplikationer\\ThisIsSnackis\\ThisIsSnackis\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Elvir\\OneDrive\\Skrivbord\\Plugg\\E.Webbapplikationer\\ThisIsSnackis\\ThisIsSnackis\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Elvir\\OneDrive\\Skrivbord\\Plugg\\E.Webbapplikationer\\ThisIsSnackis\\ThisIsSnackis\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Elvir\\OneDrive\\Skrivbord\\Plugg\\E.Webbapplikationer\\ThisIsSnackis\\ThisIsSnackis\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Elvir\\OneDrive\\Skrivbord\\Plugg\\E.Webbapplikationer\\ThisIsSnackis\\ThisIsSnackis\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Elvir\\OneDrive\\Skrivbord\\Plugg\\E.Webbapplikationer\\ThisIsSnackis\\ThisIsSnackis\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Elvir\\OneDrive\\Skrivbord\\Plugg\\E.Webbapplikationer\\ThisIsSnackis\\ThisIsSnackis\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Elvir\\OneDrive\\Skrivbord\\Plugg\\E.Webbapplikationer\\ThisIsSnackis\\ThisIsSnackis\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Elvir\\OneDrive\\Skrivbord\\Plugg\\E.Webbapplikationer\\ThisIsSnackis\\ThisIsSnackis\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Elvir\\OneDrive\\Skrivbord\\Plugg\\E.Webbapplikationer\\ThisIsSnackis\\ThisIsSnackis\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Elvir\\OneDrive\\Skrivbord\\Plugg\\E.Webbapplikationer\\ThisIsSnackis\\ThisIsSnackis\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Elvir\\OneDrive\\Skrivbord\\Plugg\\E.Webbapplikationer\\ThisIsSnackis\\ThisIsSnackis\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Elvir\\OneDrive\\Skrivbord\\Plugg\\E.Webbapplikationer\\ThisIsSnackis\\ThisIsSnackis\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Elvir\\OneDrive\\Skrivbord\\Plugg\\E.Webbapplikationer\\ThisIsSnackis\\ThisIsSnackis\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Elvir\\OneDrive\\Skrivbord\\Plugg\\E.Webbapplikationer\\ThisIsSnackis\\ThisIsSnackis\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Elvir\\OneDrive\\Skrivbord\\Plugg\\E.Webbapplikationer\\ThisIsSnackis\\ThisIsSnackis\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Elvir\\OneDrive\\Skrivbord\\Plugg\\E.Webbapplikationer\\ThisIsSnackis\\ThisIsSnackis\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Elvir\\OneDrive\\Skrivbord\\Plugg\\E.Webbapplikationer\\ThisIsSnackis\\ThisIsSnackis\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Elvir\\OneDrive\\Skrivbord\\Plugg\\E.Webbapplikationer\\ThisIsSnackis\\ThisIsSnackis\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Elvir\\OneDrive\\Skrivbord\\Plugg\\E.Webbapplikationer\\ThisIsSnackis\\ThisIsSnackis\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Elvir\\OneDrive\\Skrivbord\\Plugg\\E.Webbapplikationer\\ThisIsSnackis\\ThisIsSnackis\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Elvir\\OneDrive\\Skrivbord\\Plugg\\E.Webbapplikationer\\ThisIsSnackis\\ThisIsSnackis\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Elvir\\OneDrive\\Skrivbord\\Plugg\\E.Webbapplikationer\\ThisIsSnackis\\ThisIsSnackis\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Elvir\\OneDrive\\Skrivbord\\Plugg\\E.Webbapplikationer\\ThisIsSnackis\\ThisIsSnackis\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Elvir\\OneDrive\\Skrivbord\\Plugg\\E.Webbapplikationer\\ThisIsSnackis\\ThisIsSnackis\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Elvir\\OneDrive\\Skrivbord\\Plugg\\E.Webbapplikationer\\ThisIsSnackis\\ThisIsSnackis\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Elvir\\OneDrive\\Skrivbord\\Plugg\\E.Webbapplikationer\\ThisIsSnackis\\ThisIsSnackis\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Elvir\\OneDrive\\Skrivbord\\Plugg\\E.Webbapplikationer\\ThisIsSnackis\\ThisIsSnackis\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Elvir\\OneDrive\\Skrivbord\\Plugg\\E.Webbapplikationer\\ThisIsSnackis\\ThisIsSnackis\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Elvir\\OneDrive\\Skrivbord\\Plugg\\E.Webbapplikationer\\ThisIsSnackis\\ThisIsSnackis\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Elvir\\OneDrive\\Skrivbord\\Plugg\\E.Webbapplikationer\\ThisIsSnackis\\ThisIsSnackis\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Elvir\\OneDrive\\Skrivbord\\Plugg\\E.Webbapplikationer\\ThisIsSnackis\\ThisIsSnackis\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Elvir\\OneDrive\\Skrivbord\\Plugg\\E.Webbapplikationer\\ThisIsSnackis\\ThisIsSnackis\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Elvir\\OneDrive\\Skrivbord\\Plugg\\E.Webbapplikationer\\ThisIsSnackis\\ThisIsSnackis\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.ThisIsSnackis.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.ThisIsSnackis.props",
+      "PackagePath": "build\\ThisIsSnackis.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ThisIsSnackis.props",
+      "PackagePath": "buildMultiTargeting\\ThisIsSnackis.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.ThisIsSnackis.props",
+      "PackagePath": "buildTransitive\\ThisIsSnackis.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

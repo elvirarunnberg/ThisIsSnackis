@@ -1,0 +1,24 @@
+﻿@page
+@model ThisIsSnackis.Pages.MittApiModel
+
+<h1>API Data</h1>
+
+@if (Model.Posts != null && Model.Posts.Count > 0)
+{
+    <ul>
+        @foreach (var post in Model.Posts)
+        {
+            <li>
+                <strong>Id:</strong> @post.id <br />
+                <strong>Title:</strong> @post.title <br />
+                <strong>Post:</strong> @post.thePost <br />
+                <strong>Author Id:</strong> @post.authorId <br />
+                <strong>Date:</strong> @post.date <br />
+            </li>
+        }
+    </ul>
+}
+else
+{
+    <p>No data found</p>
+}

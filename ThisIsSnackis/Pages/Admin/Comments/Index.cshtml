@@ -1,0 +1,50 @@
+﻿@page
+@model ThisIsSnackis.Pages.Admin.Comments.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Kommentarer</h1>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Comment[0].Text)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Comment[0].UserId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Comment[0].ThePostId)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Comment) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Text)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UserId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ThePostId)
+            </td>
+            <td>
+                    <a asp-page="./Details" asp-route-id="@item.Id" class="custom-link">Detaljer</a>
+                    @if (User.Identity.IsAuthenticated && User.Identity.Name == "elvirarunnberg@hotmail.com" || User.Identity.Name == item.UserId)
+                    {
+                        <a asp-page="./Edit" asp-route-id="@item.Id"class="custom-link">Redigera</a>
+                        <a asp-page="./Delete" asp-route-id="@item.Id" class="custom-link">Ta bort</a>
+                    }
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+<a href="javascript:history.go(-1);" class="custom-link">Tillbaka</a>

@@ -1,0 +1,40 @@
+﻿@page
+@model ThisIsSnackis.Pages.Admin.Comments.DeleteModel
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>Ta bort kommentar</h1>
+
+
+<div>
+ 
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Comment.Text)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Comment.Text)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Comment.UserId)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Comment.UserId)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Comment.ThePostId)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Comment.ThePostId)
+        </dd>
+    </dl>
+    
+    <form method="post">
+        <input type="hidden" asp-for="Comment.Id" />
+        <input type="submit" value="Ta bort" class="btn btn-danger" /> <br /><br />
+        <a href="javascript:history.go(-1);" class="custom-link">Tillbaka</a>
+    </form>
+</div>

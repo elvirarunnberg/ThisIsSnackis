@@ -1,0 +1,28 @@
+﻿@page
+@model ThisIsSnackis.Pages.Admin.Headers.DeleteModel
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>Radera rubrik</h1>
+
+
+<div>
+    <h4>Header</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Header.TheHeader)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Header.TheHeader)
+        </dd>
+    </dl>
+    
+    <form method="post">
+        <input type="hidden" asp-for="Header.Id" />
+        <input type="submit" value="Radera" class="btn btn-danger" /> <br /><br />
+        <a href="javascript:history.go(-1);" class="custom-link">Tillbaka</a>
+    </form>
+</div>

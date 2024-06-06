@@ -1,0 +1,79 @@
+﻿@page
+@model ThisIsSnackis.Pages.Admin.Messages.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Meddelanden</h1>
+
+<p>
+    <a asp-page="Create" class="custom-link">Skapa nytt meddelande</a>
+</p>
+
+<h2>Utkorgen</h2>
+@if (Model.SentMessages.Any())
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Title</th>
+                <th>Text</th>
+                <th>Recipient</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var message in Model.SentMessages)
+            {
+                <tr>
+                    <td>@message.Title</td>
+                    <td>@message.Text</td>
+                    <td>@message.ReciverId</td>
+                    <td>
+                        <a asp-page="./Details" asp-route-id="@message.Id" class="custom-link">Detaljer</a>
+                        <a asp-page="./Delete" asp-route-id="@message.Id" class="custom-link">Ta bort</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>Här va det tomt!</p>
+}
+
+<h2>Inkorgen</h2>
+@if (Model.ReceivedMessages.Any())
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Rubrik</th>
+                <th>Meddelande</th>
+                <th>Avsändare</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var message in Model.ReceivedMessages)
+            {
+                <tr>
+                    <td>@message.Title</td>
+                    <td>@message.Text</td>
+                    <td>@message.SenderId</td>
+                    <td>
+                        <a asp-page="./Details" asp-route-id="@message.Id" class="custom-link">Detaljer</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>Här va det tomt!</p>
+}
+
+<a href="javascript:history.go(-1);" class="custom-link">Tillbaka</a>

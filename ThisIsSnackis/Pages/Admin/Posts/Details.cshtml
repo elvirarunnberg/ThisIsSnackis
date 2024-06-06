@@ -1,0 +1,92 @@
+﻿@page
+@model ThisIsSnackis.Pages.Admin.Posts.DetailsModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Inlägg</h1>
+
+<div>
+   
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Post.Title)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Post.Title)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Post.ThePost)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Post.ThePost)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Post.AuthorId)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Post.AuthorId)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Post.Date)
+        </dt>
+        <dd class="col-sm-10">
+            @Model.Post.Date.ToString("yyyy-MM-dd HH:mm:ss")
+        </dd>
+       
+        <dt class="col-sm-2">
+            Profilbild:
+        </dt>
+        <dd class="col-sm-10">
+            @if (!string.IsNullOrEmpty(Model.ProfilePictureUrl))
+            {
+                <img src="@Model.ProfilePictureUrl" alt="Profilbild" style="width:100px; height:100px;" />
+            }
+            else
+            {
+                <span>Ingen profilbild</span>
+            }
+    </dl>
+</div>
+
+<h5>Kommentarer:</h5>
+
+@if (Model.Comments != null && Model.Comments.Any())
+{
+    <div class="comment-container">
+        <ul>
+            @foreach (var comment in Model.Comments)
+            {
+                <div class="comment">
+                    <b>@comment.Text</b>
+                    <p>Användare: @comment.UserId</p>
+                    @if (User.Identity.IsAuthenticated && (User.Identity.Name == "elvirarunnberg@hotmail.com" || User.Identity.Name == comment.UserId))
+                    {
+                        <a asp-page="/Admin/Comments/Edit" asp-route-id="@comment.Id" class="custom-link">Redigera</a>
+                        <a asp-page="/Admin/Comments/Delete" asp-route-id="@comment.Id" class="custom-link">Ta bort</a>
+                    }
+                </div>
+            }
+        </ul>
+    </div>
+}
+else
+{
+    <p>Det finns inga kommentarer ännu!</p>
+}
+
+
+<br /><br />
+<div>
+    @if (User.Identity.IsAuthenticated && User.Identity.Name == "elvirarunnberg@hotmail.com" || User.Identity.IsAuthenticated && User.Identity.Name == Model.Post.AuthorId)
+    {
+        <a asp-page="./Edit" asp-route-id="@Model.Post.Id" class="custom-link">Redigera</a>
+        <a asp-page="./Delete" asp-route-id="@Model.Post.Id" class="custom-link">Ta bort</a>
+    }
+    
+    <a asp-page="/Admin/Comments/Create" asp-route-postId="@Model.Post.Id" class="custom-link">Kommentera</a>
+    <a asp-page="/Admin/Reports/Create" asp-route-postId="@Model.Post.Id" class="custom-link">Anmäl inlägg</a>
+</div><br />
+<a href="javascript:history.go(-1);" class="custom-link">Tillbaka</a>

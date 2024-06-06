@@ -1,0 +1,31 @@
+﻿@page
+@model ThisIsSnackis.Pages.Admin.UserPictures.DetailsModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Detaljer</h1>
+
+<div>
+
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.UserPicture.Image)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.UserPicture.Image)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.UserPicture.UserId)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.UserPicture.UserId)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-page="./Edit" asp-route-id="@Model.UserPicture.Id" class="custom-link">Redigera</a> 
+    <a href="javascript:history.go(-1);" class="custom-link">Tillbaka</a>
+</div>

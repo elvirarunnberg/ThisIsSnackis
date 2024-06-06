@@ -1,0 +1,46 @@
+﻿@page
+@model ThisIsSnackis.Pages.Admin.Messages.DeleteModel
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>Ta bort</h1>
+
+<h3>Är du säker på att du vill ta bort meddelandet?</h3>
+<div>
+
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Message.Title)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Message.Title)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Message.Text)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Message.Text)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Message.SenderId)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Message.SenderId)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Message.ReciverId)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Message.ReciverId)
+        </dd>
+    </dl>
+    
+    <form method="post">
+        <input type="hidden" asp-for="Message.Id" />
+        <input type="submit" value="Ta bort" class="btn btn-danger" /> <br /><br />
+        <a href="javascript:history.go(-1);" class="custom-link">Tillbaka</a>
+    </form>
+</div>

@@ -1,0 +1,55 @@
+﻿@page
+@model ThisIsSnackis.Pages.Admin.Posts.CreateModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Skapa nytt inlägg</h1>
+
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Post.Title" class="control-label"></label>
+                <input asp-for="Post.Title" class="form-control" />
+                <span asp-validation-for="Post.Title" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Post.ThePost" class="control-label"></label>
+                <textarea asp-for="Post.ThePost" class="form-control" rows="10" cols="50"></textarea>
+                <span asp-validation-for="Post.ThePost" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Post.TheCategoryId" class="control-label">Kategori: </label>
+                <select asp-for="Post.TheCategoryId" class="form-control">
+                    <option value="">Välj en kategori</option>
+                    @foreach (var category in Model.Categories)
+                    {
+                        <option value="@category.Id">@category.Name</option>
+                    }
+                </select>
+                <span asp-validation-for="Post.TheCategoryId" class="text-danger"></span>
+            </div><br />
+            <div class="form-group">
+                <input type="submit" value="Spara" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+
+ 
+</div>
+<br />
+<div>
+    <a href="javascript:history.go(-1);" class="custom-link">Tillbaka</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

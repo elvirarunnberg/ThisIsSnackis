@@ -1,0 +1,54 @@
+﻿@page
+@model ThisIsSnackis.Pages.Admin.Reports.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Alla anmälningar</h1>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Report[0].Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Report[0].UserId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Report[0].CreatedAt)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Report[0].PostId)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Report) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UserId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CreatedAt)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PostId)
+            </td>
+            <td>
+                    <a asp-page="./Edit" asp-route-id="@item.Id" class="custom-link">Redigera</a> 
+                    <a asp-page="./Details" asp-route-id="@item.Id" class="custom-link">Till anmälan</a> 
+                    <a asp-page="./Delete" asp-route-id="@item.Id" class="custom-link">Ta bort</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+
+<div><a href="javascript:history.go(-1);" class="custom-link">Tillbaka</a></div>

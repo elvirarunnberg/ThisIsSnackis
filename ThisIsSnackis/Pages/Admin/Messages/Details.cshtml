@@ -1,0 +1,44 @@
+﻿@page
+@model ThisIsSnackis.Pages.Admin.Messages.DetailsModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Meddelande</h1>
+
+<div>
+   
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Message.Title)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Message.Title)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Message.Text)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Message.Text)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Message.SenderId)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Message.SenderId)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Message.ReciverId)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Message.ReciverId)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-page="./Delete" asp-route-id="@Model.Message.Id" class="custom-link">Radera</a> 
+
+    <a href="javascript:history.go(-1);" class="custom-link">Tillbaka</a>
+</div>
